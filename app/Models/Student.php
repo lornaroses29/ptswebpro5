@@ -1,5 +1,4 @@
 <?php
-//NAZKIA NAJIDAH RAMDANI XI PIONEER WEBPRO5
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;

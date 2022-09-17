@@ -1,4 +1,3 @@
-<!-- NAZKIA NAJIDAH RAMDANI XI PIONEER PTSWEBPRO5-->
 <?php
 
 use Illuminate\Support\Facades\Route;

@@ -1,5 +1,4 @@
 <?php
-// NAZKIA NAJIDAH RAMDANI XI PIONEER PTSWEBPRO5
 namespace App\Http\Controllers;
 
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;

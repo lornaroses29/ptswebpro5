@@ -1,5 +1,4 @@
 <?php
-//NAZKIA NAJIDAH RAMDANI XI PIONEER WEBPRO5
 
 namespace App\Http\Controllers;
 
@@ -29,8 +28,7 @@ class StudentsController extends Controller
         
         Student::create($request->all());
 
-        // return redirect()->route('student.index')->with('success', 'Berhaslil menambahkan.');
-        return dd($students);
+        return redirect()->route('student.index')->with('success', 'Berhaslil menambahkan.');
     }
 
     public function edit(Student $student)
